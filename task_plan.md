@@ -10,8 +10,8 @@
 - [x] Finalize Data Schema
 
 ## Phase 2: Link (Connectivity) ⚡
-- [ ] Verify API connections & `.env`
-- [ ] Build minimal verification scripts in `tools/`
+- [x] Verify API connections & `.env`
+- [x] Build minimal verification scripts in `tools/`
 
 ## Phase 3: Architect (A.N.T. 3-Layer Build) ⚙️
 - [ ] Layer 1: Architecture (SOPs in `architecture/`)
